@@ -1,0 +1,14 @@
+body{
+	background: url(https://image.shutterstock.com/image-photo/artistic-cloudy-sky-pastel-gradient-260nw-767776375.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.about{
+	padding-top: 70px;
+	padding-bottom : 70px;
+}
+.second{
+		background: url(https://imgix.bustle.com/uploads/image/2019/5/2/ffa82ad4-937e-412c-9bfd-33cb9252e88e-instagram-donate.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format%2Ccompress);
+        background-repeat: no-repeat;
+	    background-size: cover;
+}
